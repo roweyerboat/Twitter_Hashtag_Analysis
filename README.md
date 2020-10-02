@@ -43,4 +43,4 @@ Based on the analysis and looking at what continued to rise to the top, the main
 However this is definitely a limited study. It was interesting to see how a sentiment analysis isn't always helpful.
 Future work with this and other data sets would be to look at how BLM is portrayed by major news media and see if the words used are similar. An application of this project is to understand the context of the sentiment analysis. 
 
-[Blog post about the project](https://roweyerboat.github.io/analyzing_a_single_hashtag#sentimentanalysis)
+[Blog post about the project](https://roweyerboat.github.io/analyzing_a_single_hashtag)
