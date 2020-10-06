@@ -19,7 +19,7 @@ Since it was too large to upload to Github, here are the links for the raw data 
 [Raw data](https://drive.google.com/drive/folders/15CaXeeJ8ned9FVKYocex9lPPSOnWqZ5B?usp=sharing) <br />
 [Clean data](https://drive.google.com/file/d/1kPipsvCNzIIchTUzEt7NH4nrXxelIJvb/view?usp=sharing) <br />
 
-![picture of a graph showing tweets over the years with the hashtag blm](https://github.com/roweyerboat/Capstone_Project/blob/master/Tweets%20over%20time.jpg)
+![picture of a graph showing tweets over the years with the hashtag blm](https://github.com/roweyerboat/Capstone_Project/blob/master/images/Tweets%20over%20time.jpg)
 <br />
 ### Scraping Notebook
 The scraping notebook was also too large for github, so here is a [link](https://drive.google.com/file/d/165vOvt2XrFNWwK0m2iZSz35KV4PojxRc/view?usp=sharing) to it
@@ -35,8 +35,8 @@ BLM_Hashtag_Analysis - Summarization of the whole project <br />
 ### Findings
 Sentiment analysis was inconclusive as a tweet that could be seen as "negative" wasn't necessarily against the BLM movement. Likewise a "positive" sentiment didn't mean the message was for BLM or promoting their values. Therefore I chose to look deeper at the words through Topic Modeling with two methods. <br />
 
-![LSA topic counts](https://github.com/roweyerboat/Capstone_Project/blob/master/LSA%20topic%20Counts.png)<br />
-![LDA 4 topics](https://github.com/roweyerboat/Capstone_Project/blob/master/LDA%204%20topics.png)
+![LSA topic counts](https://github.com/roweyerboat/Capstone_Project/blob/master/images/LSA%20topic%20Counts.png)<br />
+![LDA 4 topics](https://github.com/roweyerboat/Capstone_Project/blob/master/images/LDA%204%20topics.png)
 
 ### Conclusion
 Based on the analysis and looking at what continued to rise to the top, the main themes of tweets with the hashtag BLM are about protecting Black lives. Antifa was not included as much as mainstream news outlets assume.
